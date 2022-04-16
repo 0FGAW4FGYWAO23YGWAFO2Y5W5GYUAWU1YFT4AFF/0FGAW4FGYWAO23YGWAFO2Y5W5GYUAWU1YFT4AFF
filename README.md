@@ -8,5 +8,7 @@ as of 4/15/22 i dont have anything exept for roblox scripts
 # im most interested in automated stuff (creating accounts, bots, etc)
 yeah
 
+![](https://github.com/0FGAW4FGYWAO23YGWAFO2Y5W5GYUAWU1YFT4AFF/0FGAW4FGYWAO23YGWAFO2Y5W5GYUAWU1YFT4AFF/blob/main/Trollface_non-free.jpg)
+
 
 print("Hello World!")
